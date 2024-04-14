@@ -3,121 +3,113 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Danyl Novhorodov
+    tagline: Software Engineer | Technical Lead | Software Architect
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: danyl.novhorodov@gmail.com
+    phone: 064 075 4777
+    timezone: Europe/Amsterdam Timezone
+    citizenship: Netherlands
+    website: danyl.hashnode.dev #do not add http://
+    linkedin: danyl-novhorodov
+    xing: #
+    github: dnovhorodov
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@dnovhorodov'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://www.dropbox.com/scl/fi/nv5kty2y5m1cmdriqpjqw/Danyl_Novhorodov_2024.pdf?rlkey=wg8phwhyt3tlkut07ompfdros&dl=0
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Ukrainian
+          level: Native
+        
+        - idiom: Russian
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Fluent
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Dutch
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: MMA/Kickboxing/Boxing
           link:
 
-        - item: Snowboarding
+        - item: Gym
           link:
 
-        - item: Cooking
+        - item: Music & Cinema
+          link:
+        
+        - item: Reading
           link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a pragmatic Software Engineer with over twenty years of experience, specializing in developing scalable,
+      cloud-based solutions across diverse industries including banking, automotive, hospitality, telecom, and agriculture.
+      My expertise spans the entire software development lifecycle with a preference for Agile methodologies like
+      Lean and XP. Throughout my career, I have successfully addressed technological challenges in both startups and
+      large organizations, focusing on enhancing system functionalities and overhauling outdated architectures.
+      I have steered teams towards achieving their goals and have been committed to supporting developers in their
+      professional growth. My approach combines practical problem-solving with a commitment to sustainable software
+      architecture, ensuring continuous improvement and the delivery of high-impact solutions.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master Degree in Computer Engineering
+        university: Krivyi Rih Technical University
+        time: 1997 - 2002
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Lead
+        time: 2023 - Present
+        company: RTL, Hilversum - Netherlands
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          As a Technical Lead, I faced the challenge of enhancing the architecture and codebase for
+          content distribution and transformation. My team is responsible for managing content discovery,
+          delivery, and playout across platforms like [RTL News](https://www.rtlnieuws.nl/), [RTL Boulevard](https://www.rtl.nl/boulevard?redirect=rtlboulevard), and [Videoland](https://www.videoland.com/nl/).
+          We cater to millions of users daily, ensuring that video content is efficiently processed and
+          distributed to various platforms for both live streaming and video on demand.
+            - Dutch Media Network
+            - Content Transformation & Video Playout
+            - Technical Leadership
+      - role: Technical Lead
+        time: 2022 - 2023
+        company: Farmtrace, Boxmeer - Netherlands
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          At Farmtrace, my responsibilities include facilitating development teams, mentoring and coaching,
+          and implementing best software development practices to maintain high-quality standards. 
+          Approximately 60-70% of my time is dedicated to coding, while the remainder is allocated for code
+          reviews, documentation, educational sessions for developers, and business meetings.
+          I actively participate in the design and development of new components and features, guiding the team
+          to ensure they are equipped to handle ongoing maintenance and development independently.
+          I am always ready to assist other teams that require support or advice, exemplifying my approach
+          to teamwork and leadership.
+            - Agriculture
+            - Data Platform Development
+            - Leadership, Coaching & Mentorship
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
