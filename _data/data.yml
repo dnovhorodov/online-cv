@@ -91,7 +91,7 @@ experiences:
           delivery, and playout across platforms like [RTL News](https://www.rtlnieuws.nl/), [RTL Boulevard](https://www.rtl.nl/boulevard?redirect=rtlboulevard), and [Videoland](https://www.videoland.com/nl/).
           We cater to millions of users daily, ensuring that video content is efficiently processed and
           distributed to various platforms for both live streaming and video on demand. We also ensure that our users get the best experience by taking full ownership of the flow and resolving any issues via effective incident management.
-            - **HTTP Live Streaming parser**: F# implementation of HLS parser ([RFC 8216](https://www.rfc-editor.org/rfc/rfc8216)) for Live to VOD flow.
+            - **HTTP Live Streaming parser**: F# implementation of HLS parser ([RFC 8216](https://www.rfc-editor.org/rfc/rfc8216)) for Live to VoD (Video on Demand) flow.
             - **Media RSS Feed**: Integration solution with cable companies like Ziggo and KPN to have discoverable content on user's TV set-up-boxes when they search for movie or series.
             - **Architecture Roadmap**: Together with other architects developed a vision and plan on moving towards event-driven architecture for integrations.
             - **Strategic DDD**: Drove initiative for implementing strategic DDD with techniques like Event Storming, User Journey Map, and Context Map.
