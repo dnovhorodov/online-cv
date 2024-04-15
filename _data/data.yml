@@ -288,9 +288,12 @@ skills:
     toolset:
       - name: DDD | CQRS | Event Sourcing
         level: 85%
+
+      - name: Mentoring & Coaching
+        level: 80%
       
-      - name: Microservices | Akka.NET | Event-Driven Arhitecture
-        level: 90%
+      - name: Microservices | EDA | Akka.NET
+        level: 85%
 
       - name: .NET 8 | C# | F#
         level: 90%
