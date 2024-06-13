@@ -301,12 +301,15 @@ skills:
 
       - name: .NET 8 | C# | F#
         level: 90%
+      
+      - name: Rust
+        level: 30%
 
       - name: ASP.NET | Entity Framework | Dapper
         level: 90%
 
       - name: MS SQL Server | MongoDB
-        level: 90%
+        level: 85%
 
       - name: RabbitMQ | MassTransit | ZeroMQ | Azure Service Bus
         level: 80%
