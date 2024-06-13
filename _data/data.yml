@@ -62,7 +62,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I am a freelance Software Engineer with over twenty years of experience, specializing in developing scalable,
+      I am a software engineer with over twenty years of experience, specializing in developing scalable,
       cloud-based solutions across diverse industries including banking, automotive, hospitality, telecom, and agriculture.
       My expertise spans the entire software development lifecycle with a preference for Agile methodologies like
       Lean and XP. Throughout my career, I have successfully addressed technological challenges in both startups and
@@ -91,6 +91,7 @@ experiences:
           delivery, and playout across platforms like [RTL News](https://www.rtlnieuws.nl/), [RTL Boulevard](https://www.rtl.nl/boulevard?redirect=rtlboulevard), and [Videoland](https://www.videoland.com/nl/).
           We cater to millions of users daily, ensuring that video content is efficiently processed and
           distributed to various platforms for both live streaming and video on demand. We also ensure that our users get the best experience by taking full ownership of the flow and resolving any issues via effective incident management.
+            - **Tackling technical debt**: Refactoring, optimization, reducing complexity of the existing systems.
             - **HTTP Live Streaming parser**: F# implementation of HLS parser ([RFC 8216](https://www.rfc-editor.org/rfc/rfc8216)) for Live to VoD (Video on Demand) flow.
             - **Media RSS Feed**: Integration solution with cable companies like Ziggo and KPN to have discoverable content on user's TV set-up-boxes when they search for movie or series.
             - **Architecture Roadmap**: Together with other architects developed a vision and plan on moving towards event-driven architecture for integrations.
